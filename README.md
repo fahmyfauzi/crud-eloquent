@@ -16,4 +16,4 @@ Simple Crud Laravel
 
 3). cp .env.example .env
 
-4) migrate / import sql di database
+4). migrate / import sql di database
